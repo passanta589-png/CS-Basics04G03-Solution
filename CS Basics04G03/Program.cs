@@ -36,3 +36,14 @@ static void PrintWelcomeMessage()
 //PrintBookTitle();
 
 #endregion
+#region 05
+//static void AddBonusPages(int pages)
+//{
+//    pages = pages + 50;
+//    Console.WriteLine("Inside method: " + pages);
+//}
+//int pages = 400;
+//AddBonusPages(pages);
+//Console.WriteLine("Outside method: " + pages);
+
+#endregion
