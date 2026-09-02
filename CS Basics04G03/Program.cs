@@ -109,4 +109,14 @@ static void PrintWelcomeMessage()
 //    Console.WriteLine($"title: {title}, Pages: {pages}");
 //}
 //PrintBookInfo(pages: 500, title: "Clean Code");
-//#endregion
+#endregion
+#region 12
+//static void PrintAllTitles(params string[] titles)
+//{
+//    foreach (var title in titles)
+//    {
+//        Console.WriteLine(title);
+//    }
+//}
+//PrintAllTitles("Clean Code", "Design Patterns", "Refactoring");
+#endregion
