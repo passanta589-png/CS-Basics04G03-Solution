@@ -67,3 +67,12 @@ static void PrintWelcomeMessage()
 //Console.WriteLine("Outside method: " + pages);
 
 #endregion
+#region 08
+//static void ReplaceArray(ref double[] prices)
+//{
+//    prices = new double[] { 10.0, 12.5, 15.0 };
+//}
+//double[] pricesArray = { 25.5, 40.0 };
+//ReplaceArray(ref pricesArray);
+//Console.WriteLine(pricesArray.Length);
+#endregion
