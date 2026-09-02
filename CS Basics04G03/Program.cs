@@ -56,3 +56,14 @@ static void PrintWelcomeMessage()
 //ApplyDiscount(prices);
 //Console.WriteLine(prices[0]);
 #endregion
+#region 07
+//static void AddBonusPages(ref int pages)
+//{
+//    pages = pages + 50;
+//    Console.WriteLine("Inside method: " + pages);
+//}
+//int pages = 400;
+//AddBonusPages(ref pages);
+//Console.WriteLine("Outside method: " + pages);
+
+#endregion
