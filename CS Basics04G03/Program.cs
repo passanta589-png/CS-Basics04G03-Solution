@@ -76,3 +76,22 @@ static void PrintWelcomeMessage()
 //ReplaceArray(ref pricesArray);
 //Console.WriteLine(pricesArray.Length);
 #endregion
+#region 09
+//static bool TryGetPrice(string title, out double price)
+//{
+//    if (title == "Clean Code")
+//    {
+//        price = 25.5;
+//        return true;
+//    }
+//    else
+//    {
+//        price = 0;
+//        return false;
+//    }
+//}
+//if (TryGetPrice("Clean Code", out double bookPrice))
+//{
+//    Console.WriteLine("Price: " + bookPrice);
+//}
+#endregion
