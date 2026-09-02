@@ -95,3 +95,11 @@ static void PrintWelcomeMessage()
 //    Console.WriteLine("Price: " + bookPrice);
 //}
 #endregion
+#region 10
+//static void PrintBookInfo(string title, int pages = 300)
+//{
+//    Console.WriteLine($"title: {title}, Pages: {pages}");
+//}
+//PrintBookInfo("Clean Code");
+//PrintBookInfo("clean code", 450);
+#endregion
