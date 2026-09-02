@@ -28,3 +28,11 @@ static void PrintWelcomeMessage()
     PrintWelcomeMessage();
 }
 #endregion
+#region 04
+//static void PrintBookTitle(string title = "clean code")
+//{
+//    Console.WriteLine("Book Title: " + title);
+//}
+//PrintBookTitle();
+
+#endregion
