@@ -19,3 +19,12 @@ price[2] = 33.75;
     Console.WriteLine(price[1]);
 }
 #endregion
+#region 03
+static void PrintWelcomeMessage()
+{
+    Console.WriteLine("Welcome to the program!");
+}
+{
+    PrintWelcomeMessage();
+}
+#endregion
